@@ -13,7 +13,7 @@
     "react-scripts": "3.4.1"
   },
   "scripts": {
-    "start": "node ReactProject/src/App.js",
+    "start": "react-scripts start",
     "buildpacks": [
     {
       "url": "mars/create-react-app"
